@@ -2,7 +2,7 @@
   "name": "Spaced",
   "short_name": "Spaced",
   "description": "Personal spaced repetition flashcard system",
-  "start_url": "/",
+  "start_url": "/Spaced/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#2d6a4f",
